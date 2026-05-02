@@ -14,7 +14,7 @@ It is deployed as a live web application for real-time usage.
 
 ## 🌐 Live Demo
 
-👉 Try the app here: **https://your-huggingface-link**
+👉 Try the app here: https://huggingface.co/spaces/trishaganesh106/smart-payment-protection
 
 ---
 
