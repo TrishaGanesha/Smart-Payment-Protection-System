@@ -1,2 +1,23 @@
-# ai-financial-risk-detection
-Rule-based fuzzy logic system for credit risk prediction with explainable AI scoring, risk segmentation, and financial analytics.
+# Smart Payment Protection System
+
+Hybrid AI financial fraud detection system using:
+
+- Machine Learning (Random Forest)
+- Fuzzy Logic
+- Explainable AI
+- Interactive Customer Protection UI
+
+## Features
+
+✅ Real-time fraud prediction  
+✅ Safe / Verify / Block decision  
+✅ Explainable risk alerts  
+✅ Interactive banking-style UI  
+
+## Dataset
+
+15,000 financial transactions
+
+## Tech Stack
+
+Python, Pandas, Scikit-Learn, Gradio, Matplotlib
