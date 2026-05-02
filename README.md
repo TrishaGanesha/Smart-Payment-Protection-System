@@ -1,4 +1,4 @@
-# 🚀 Project Title
+# Smart Payment Protection System
 
 A portfolio-level AI/ML application designed to solve a real-world problem using intelligent data processing and predictive modeling.
 
